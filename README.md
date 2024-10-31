@@ -4,6 +4,7 @@
 Built a monolithic application which further breaked down and done a new project with microservices architecture with new repo : https://github.com/bsainath99/quizApp-microservices. 
 
 In this project, I have implemented quiz application using monolithic architecture.
+The main objective is, now-a-days 99.999% of applications are build using microservices architecture. But in reality, how an monolithic application(preeceder to microservices) looks like and how it works, the internal workflow of application is show-cased in this application.
 
 In general, when we say Quiz, a user will get a set of questions whihc are of MCQ type and then based on what we choose, we get a score based on correct answers provided by user.
 
